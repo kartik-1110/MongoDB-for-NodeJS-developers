@@ -1,0 +1,38 @@
+=====> Final: Question 1
+
+Solution: elections.find( { winner_party: "Republican",
+                     winner_electoral_votes: { "$gte": 160 } } )
+
+
+=====> Final: Question 2
+
+Solution: phones.updateMany( { software_version: { "$lt": 4.0 } },
+                       { "$set": { needs_to_update: true } } )
+
+
+=====> Final: Question 3
+
+Solution: 1: automatically retry writes that fail.
+          2: wait at most 50 milliseconds for timing out a connection.
+
+
+=====> Final: Question 4
+
+Solution: w: majority
+
+
+=====> Final: Question 5
+
+Solution: 1: Insert #1
+          2: Insert #2
+          3: Insert #3
+
+
+=====> Final: Question 6
+
+Solution: a Timeout error, resolved by wrapping the call in a try/catch block
+
+
+=====> Final: Question 7
+
+Solution: people_heights.find().sort({ height: -1 }).skip(3).limit(2)

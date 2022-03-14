@@ -1,0 +1,73 @@
+=====> Chapter 2: User-Facing Backend
+Ticket: Paging
+
+Problem: User Story
+"As a user, I'd like to get the next page of results for my query by scrolling down in the main window of the application."
+
+Solution: 5a9824d057adff467fb1f526
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: Faceted Search
+
+Problem: User Story
+"As a user, I want to be able to filter cast search results by one facet, metacritic rating."
+
+Solution: 5aa7d3948adcc3fb770f06fb
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: User Management
+
+Problem: User Story
+"As a user, I should be able to register for an account, log in, logout, and delete my account."
+
+Solution: 5a8d8ee2f9588ca2701894be
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: Durable Writes
+
+Problem: User Story
+"As a user, I should be confident that creating a new account will succeed, so I can start reviewing movies right away."
+
+Solution: 1: w: 2
+          2: w: "majority"
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: User Preferences
+
+Problem: User Story
+"As a user, I want to be able to store preferences such as my favorite cast member and preferred language."
+
+Solution: 5aabe31503ac76bc4f73e267
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: Get Comments
+
+Problem: User Story
+"As a user, I want to be able to view comments for a movie when I look at the movie detail page."
+
+Solution: 5ab5094fb526e43b570e4633
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: Create/Update Comments
+
+Problem: User Story
+"As a user, I want to be able to post comments to a movie page as well as edit my own comments."
+
+Solution: 5aba8d5113910c25d7058f8f
+
+
+=====> Chapter 2: User-Facing Backend
+Ticket: Delete Comments
+
+Problem: User Story
+"As a user, I want to be able to delete my own comments."
+
+Solution: 5ac25c280a80ed6e67e1cecb
+
+

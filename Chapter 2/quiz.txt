@@ -1,0 +1,55 @@
+=====> Chapter 2: User-Facing Backend
+Cursor Methods and Aggregation Equivalents
+
+Problem: Which of the following aggregation stages have equivalent cursor methods?
+
+Solution: 1: $sort
+          2: $skip
+          3: $limit
+
+
+=====> Chapter 2: User-Facing Backend
+Basic Writes          
+
+Problem: Which of the following are valid methods to insert a new document into a collection using the Node.js driver?
+
+Solution: 1: updateOne with upsert: true specified in the options.
+          2: insertOne
+          3: insertMany
+
+
+=====> Chapter 2: User-Facing Backend
+Write Concerns          
+
+Problem: Which of the following Write Concerns are valid in a 3-node replica set?
+
+Solution: 1: w: 0
+          2: w: 1
+          3: w: majority
+
+
+=====> Chapter 2: User-Facing Backend
+Basic Updates          
+
+Problem: Which of the following can be passed to the updateOne() and updateMany() commands?
+
+Solution: 1: An update operation
+          2: A query predicate
+          3: An upsert flag
+
+
+=====> Chapter 2: User-Facing Backend
+Basic Joins          
+
+Problem: Why did we use a let expression with expressive $lookup, when joining the comments and the movies collection?
+
+Solution: To use fields from the movies documents in the pipeline.
+
+
+=====> Chapter 2: User-Facing Backend
+Basic Deletes
+
+Problem: Which of the following is true regarding deletes in the Node.js driver?
+
+Solution: 1: deleteMany deletes multiple matching documents in one operation.
+          2: deleteOne deletes the first matching document in $natural order.

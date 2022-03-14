@@ -1,0 +1,16 @@
+=====> Chapter 1: Driver Setup
+Ticket: Projection
+
+Problem: User Story
+"As a user, I'd like to be able to search movies by country and see a list of movie titles. I should be able to specify a comma-separated list of countries to search multiple countries."
+
+Solution: 5a94762f949291c47fa6474d
+
+
+=====> Chapter 1: Driver Setup
+Ticket: Text and Subfield Search
+
+Problem: User Story
+"As a user, I'd like to be able to search movies by cast members, genre, or perform a text search of the plot summary, full plot, and title."
+
+Solution: 5a96a6a29c453a40d04922cc

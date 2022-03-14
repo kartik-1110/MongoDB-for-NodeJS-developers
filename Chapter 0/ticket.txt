@@ -1,0 +1,7 @@
+=====> Chapter 0: Introduction and Setup
+Ticket: Connection
+
+Problem:
+Problem Description: The MFlix application can't connect to Atlas, so it can't store any data.
+
+Solution: 5a9026003a466d5ac6497a9d

@@ -1,0 +1,26 @@
+=====> Chapter 1: Driver Setup
+MFlix Application Architecture
+
+Problem: During this course, which are some of the files that you will have to edit?
+
+Solution: 1: commentsDao.js
+          2: moviesDao.js
+
+
+=====> Chapter 1: Driver Setup
+Asynchronous Programming in Node.js        
+
+Problem: Select the true statements below.
+
+Solution: 1: If a callback isn't provided, asynchronous methods in the Node driver will return a Promise.
+          2: All await statements should be surrounded by a try/catch block.
+          3: To use the await keyword, the enclosing function must be marked async.
+
+
+=====> Chapter 1: Driver Setup
+Basic Reads          
+
+Problem: Which of the following statements is true regarding reads in MongoDB?
+
+Solution: 1: We must explicitly remove the _id field in a projection if we do not want to include this field.
+          2: Field projection is specified as a JSON object.
